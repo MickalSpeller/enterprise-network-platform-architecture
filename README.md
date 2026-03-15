@@ -41,6 +41,7 @@ Some of the Azure resources I will be deploying is as follows:
 - Virtual Network Peering
 - Monitoring using Azure Log Analytics, Application Insights, Azure Monitoring, Metrics and Alerts.
 
+![Alt text](diagram.png)
 ---
 
 ## Enterprise Style Terraform Folder Structure
