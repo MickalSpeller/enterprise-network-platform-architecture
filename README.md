@@ -68,6 +68,7 @@ enterprise-network-platform/
 ├── providers.tf
 ├── main.tf
 ├── README.md
+├── diagram.png
 └── variables.tf
 
 ```
